@@ -2,10 +2,18 @@ body {
     font-size: 18px;
 }
 
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
 .jumbotron {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)),
         url("../img/camping-bg-6.jpg");
-    height: 800px;
+    height: 700px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
